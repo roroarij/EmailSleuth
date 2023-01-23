@@ -1,0 +1,47 @@
+/* popup/style.css */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    text-align: center;
+    padding: 20px;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+li {
+    display: flex;
+    align-items: center;
+    padding: 10px;
+    border-bottom: 1px solid #ccc;
+}
+
+
+/* popup/style.css */
+li img {
+    margin-right: 10px;
+    cursor: pointer;
+    height: 20px; /* set the desired height */
+    width: 20px; /* set the desired width */
+}
+/* popup/style.css */
+#download-csv {
+    background-color: transparent;
+    border: none;
+    padding: 0;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+#download-csv img {
+    vertical-align: middle;
+    margin-right: 10px;
+}
