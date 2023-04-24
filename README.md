@@ -27,10 +27,6 @@ EmailSleuth is a simple browser extension that helps you discover hidden email a
 - **Journalists:** Discover contact information for sources and interviewees.
 - **General Users:** Easily extract email addresses from any website for personal use.
 
-## Contributing
-
-We welcome contributions to EmailSleuth! If you'd like to contribute, please check out our [CONTRIBUTING.md](./CONTRIBUTING.md) file for guidelines.
-
 ## Disclaimer
 
 Please use EmailSleuth responsibly and respect the privacy of others. Do not use the extension to collect email addresses for spamming or other unethical purposes. Always comply with applicable laws and regulations.
