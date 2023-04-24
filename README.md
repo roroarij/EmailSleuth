@@ -13,9 +13,9 @@ EmailSleuth is a simple browser extension that helps you discover hidden email a
 
 ## Usage
 
-1.Clone the repo and navigate to chrome://extensions/. Make sure developer mode is on an Drag the folder here.
+1. Clone the repo and navigate to chrome://extensions/. Make sure developer mode is on an Drag the folder here.
 
-2.Navigate to any web page from which you want to extract email addresses.
+2. Navigate to any web page from which you want to extract email addresses.
 
 3. Click on the EmailSleuth icon in your browser's toolbar.
 
